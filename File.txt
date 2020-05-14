@@ -1,3 +1,5 @@
 ejemplo de git
 
 esta es otra linea conflicto
+
+esta linea sirve de ejemplo para una rebase
