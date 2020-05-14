@@ -1,3 +1,5 @@
 ejemplo de git
 
 esta es otra linea conflicto
+
+Esta es otra linea de código
