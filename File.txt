@@ -6,4 +6,3 @@ esta es otra linea conflicto
 Esta es otra linea de código
 
 esta linea sirve de ejemplo para una rebase
-
